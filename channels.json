@@ -1,0 +1,867 @@
+{
+	"channels": [
+		{
+			"name": "tsikhanouskaya",
+			"issue": "main",
+			"alias": "tsikhanouskaya",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belpol",
+			"issue": "main",
+			"alias": "belpol",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "latushka",
+			"issue": "main",
+			"alias": "latushka",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "motolkohelp",
+			"issue": "main",
+			"alias": "motolkohelp",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belwarriors",
+			"issue": "main",
+			"alias": "belwarriors",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "honestpeople_by",
+			"issue": "main",
+			"alias": "honestpeople_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "CabinetBelarus",
+			"issue": "main",
+			"alias": "CabinetBelarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "rada_vision",
+			"issue": "main",
+			"alias": "rada_vision",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belhalat_by",
+			"issue": "main",
+			"alias": "belhalat_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "stranafund",
+			"issue": "main",
+			"alias": "stranafund",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "christianvision",
+			"issue": "main",
+			"alias": "christianvision",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "rabochyruh",
+			"issue": "main",
+			"alias": "rabochyruh",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "cpartisans_security",
+			"issue": "main",
+			"alias": "cpartisans_security",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bysol_evacuation",
+			"issue": "main",
+			"alias": "bysol_evacuation",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "pr_belarus",
+			"issue": "main",
+			"alias": "pr_belarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "nau_belarus",
+			"issue": "main",
+			"alias": "nau_belarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "volunteersOST",
+			"issue": "main",
+			"alias": "volunteersOST",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "polskastudent",
+			"issue": "main",
+			"alias": "polskastudent",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belzhd_live",
+			"issue": "main",
+			"alias": "belzhd_live",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "dzikaeplvn",
+			"issue": "main",
+			"alias": "dzikaeplvn",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "zbsunion",
+			"issue": "main",
+			"alias": "zbsunion",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "BDK022",
+			"issue": "main",
+			"alias": "BDK022",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "rudapaka",
+			"issue": "main",
+			"alias": "rudapaka",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "kpd_by",
+			"issue": "main",
+			"alias": "kpd_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bntu97",
+			"issue": "main",
+			"alias": "bntu97",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bseu_initiative",
+			"issue": "main",
+			"alias": "bseu_initiative",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "MSLUstud",
+			"issue": "main",
+			"alias": "MSLUstud",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "peaceful_bsuir",
+			"issue": "main",
+			"alias": "peaceful_bsuir",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "stachkom",
+			"issue": "main",
+			"alias": "stachkom",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "rushennie",
+			"issue": "main",
+			"alias": "rushennie",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "by_prosvet",
+			"issue": "main",
+			"alias": "by_prosvet",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "zamkadomby",
+			"issue": "main",
+			"alias": "zamkadomby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "RealnaiaBelarus",
+			"issue": "main",
+			"alias": "RealnaiaBelarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "reformby",
+			"issue": "main",
+			"alias": "reformby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "citydogby",
+			"issue": "main",
+			"alias": "citydogby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "blizkoby",
+			"issue": "main",
+			"alias": "blizkoby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "tochkaby",
+			"issue": "main",
+			"alias": "tochkaby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "usual_morning",
+			"issue": "main",
+			"alias": "usual_morning",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "mallina_by",
+			"issue": "main",
+			"alias": "mallina_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "ALTER_NATIV",
+			"issue": "main",
+			"alias": "ALTER_NATIV",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "my_soligorsk",
+			"issue": "main",
+			"alias": "my_soligorsk",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "zerkalo_io",
+			"issue": "main",
+			"alias": "zerkalo_io",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belamova",
+			"issue": "main",
+			"alias": "belamova",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "nashaniva",
+			"issue": "main",
+			"alias": "nashaniva",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bnkbel",
+			"issue": "main",
+			"alias": "bnkbel",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belsat",
+			"issue": "main",
+			"alias": "belsat",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "novychas",
+			"issue": "main",
+			"alias": "novychas",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "euroradio",
+			"issue": "main",
+			"alias": "euroradio",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "racyja",
+			"issue": "main",
+			"alias": "racyja",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "radiosvaboda",
+			"issue": "main",
+			"alias": "radiosvaboda",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "pozirkonline",
+			"issue": "main",
+			"alias": "pozirkonline",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "mediazona_by",
+			"issue": "main",
+			"alias": "mediazona_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "smartpress",
+			"issue": "main",
+			"alias": "smartpress",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "viasna96",
+			"issue": "main",
+			"alias": "viasna96",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belnewsby1",
+			"issue": "main",
+			"alias": "belnewsby1",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "malanka",
+			"issue": "main",
+			"alias": "malanka",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "expressby",
+			"issue": "main",
+			"alias": "expressby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "vybory_smotri",
+			"issue": "main",
+			"alias": "vybory_smotri",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belonewsBY",
+			"issue": "main",
+			"alias": "belonewsBY",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "strana_official",
+			"issue": "main",
+			"alias": "strana_official",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "nexta_tv",
+			"issue": "main",
+			"alias": "nexta_tv",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "gazetaby",
+			"issue": "main",
+			"alias": "gazetaby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "mkbelarus",
+			"issue": "main",
+			"alias": "mkbelarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "charter97_org",
+			"issue": "main",
+			"alias": "charter97_org",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "dw_belarus",
+			"issue": "main",
+			"alias": "dw_belarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bajmedia",
+			"issue": "main",
+			"alias": "bajmedia",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "t_borisov",
+			"issue": "main",
+			"alias": "t_borisov",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "BelarusGulag",
+			"issue": "main",
+			"alias": "BelarusGulag",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "nic_and_mike",
+			"issue": "main",
+			"alias": "nic_and_mike",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "Hajun_BY",
+			"issue": "main",
+			"alias": "Hajun_BY",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belvilnius",
+			"issue": "main",
+			"alias": "belvilnius",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "MirrorRB",
+			"issue": "main",
+			"alias": "MirrorRB",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belarusy_zarubezhja",
+			"issue": "main",
+			"alias": "belarusy_zarubezhja",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "heneral_kgb",
+			"issue": "main",
+			"alias": "heneral_kgb",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "cbs_help",
+			"issue": "main",
+			"alias": "cbs_help",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "motolkohello",
+			"issue": "main",
+			"alias": "motolkohello",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "elehtarat",
+			"issue": "main",
+			"alias": "elehtarat",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "planbmediaio",
+			"issue": "main",
+			"alias": "planbmediaio",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "stopbotluka",
+			"issue": "main",
+			"alias": "stopbotluka",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "allians_belarus",
+			"issue": "main",
+			"alias": "allians_belarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "budzmaorg",
+			"issue": "main",
+			"alias": "budzmaorg",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "mostmediaio",
+			"issue": "main",
+			"alias": "mostmediaio",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "freebelaruscenter",
+			"issue": "main",
+			"alias": "freebelaruscenter",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "osintphoenix",
+			"issue": "main",
+			"alias": "osintphoenix",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "thebulbaa",
+			"issue": "main",
+			"alias": "thebulbaa",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "hvatitboyatsya",
+			"issue": "main",
+			"alias": "hvatitboyatsya",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "sekktor",
+			"issue": "main",
+			"alias": "sekktor",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belarus_economy",
+			"issue": "main",
+			"alias": "belarus_economy",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "balzam1906",
+			"issue": "main",
+			"alias": "balzam1906",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "belteanews",
+			"issue": "main",
+			"alias": "belteanews",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "zbroyni",
+			"issue": "main",
+			"alias": "zbroyni",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "ruchbelnac",
+			"issue": "main",
+			"alias": "ruchbelnac",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "Belarus_Files",
+			"issue": "main",
+			"alias": "Belarus_Files",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "paradachak",
+			"issue": "main",
+			"alias": "paradachak",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "bondareva_bez_kupjur",
+			"issue": "main",
+			"alias": "bondareva_bez_kupjur",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "chijinfo",
+			"issue": "main",
+			"alias": "chijinfo",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "menskrazam_info",
+			"issue": "main",
+			"alias": "menskrazam_info",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "rodnykraj",
+			"issue": "main",
+			"alias": "rodnykraj",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "youtube_by",
+			"issue": "main",
+			"alias": "youtube_by",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "parlamentbel",
+			"issue": "main",
+			"alias": "parlamentbel",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "femgroupbelarus",
+			"issue": "main",
+			"alias": "femgroupbelarus",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "polymyaby",
+			"issue": "main",
+			"alias": "polymyaby",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "BelarusiSvet",
+			"issue": "main",
+			"alias": "BelarusiSvet",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "narodnaya_hramada",
+			"issue": "main",
+			"alias": "narodnaya_hramada",
+			"groups": {
+				"main": "purple"
+			}
+		},
+		{
+			"name": "",
+			"issue": "main",
+			"alias": "",
+			"groups": {
+				"main": "purple"
+			}
+		}
+	],
+	"emojis": {
+		"red": "🇷 🇺 ",
+		"blue": "🌎",
+		"purple": "⚖️",
+		"tech": "💻",
+		"economy": "💰",
+		"other": "📰",
+		"moscow": "🌆",
+		"entertainment": "🎭"
+	},
+	"colors": {
+		"red": "🟥",
+		"blue": "🟦",
+		"purple": "🟪",
+		"tech": "⬛",
+		"economy": "🟨",
+		"other": "⬜",
+		"moscow": "⬜",
+		"entertainment": "🟩"
+	},
+	"default_groups": {
+		"main": "purple"
+	}
+}
